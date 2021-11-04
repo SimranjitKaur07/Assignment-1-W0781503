@@ -1,0 +1,23 @@
+@charset "utf-8";
+h1{
+    background-color: rgb(240, 184, 203);
+    text-align: center;
+  }
+  p{
+    color:rgb(165, 89, 13);
+  }
+  html {
+    background-color:#d8ebac;
+  }
+ h2{color:#6552bd
+}
+img{
+  float:right;
+    border-image:0vh 
+}
+footer{
+  text-align: center;
+  font-family:fantasy;
+  background-color:rgb(229, 250, 249);
+}
+/*Simranjit Kaur W078150 */
